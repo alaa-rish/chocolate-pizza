@@ -1,0 +1,35 @@
+div.social-icons {
+    position: relative;
+    float: right;
+    right: 0px;
+    top: -50px;
+}
+
+p.logo {
+    display: inline-block;
+    position: relative;
+}
+
+hr {
+    border-width: 10px;
+    border-color:lightgrey;
+    border-style: solid;
+}
+
+img.cake-img {
+    position: relative;
+    width: 100%;
+}
+
+hr.footer-hr {
+    width: 47.5%;
+    border-width: 1px;
+    display: inline-block;
+}
+
+p.footer-p {
+    color: gray;
+    text-align: center;
+    position: relative;
+    line-height: 4px;
+}
