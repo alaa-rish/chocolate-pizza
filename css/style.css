@@ -10,10 +10,11 @@ p.logo {
     position: relative;
 }
 
-hr {
-    border-width: 10px;
-    border-color:lightgrey;
+#hra {
+    border-width: 0px;
     border-style: solid;
+    background:url(../img/hr-img.png) repeat center top; 
+    height: 10px;
 }
 
 img.cake-img {
